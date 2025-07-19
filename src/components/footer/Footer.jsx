@@ -25,16 +25,16 @@ const Footer = () => {
           </li> */}
         </ul>
         <div className="footer__social">
-          <a
-            href=""
+          {/* <a
+            href="footer"
             className="home__social-icon"
             target="_blank"
             rel="noreferrer"
           >
             <FiTwitter />
-          </a>
+          </a> */}
           <a
-            href=""
+            href="https://github.com/meghd9"
             className="home__social-icon"
             target="_blank"
             rel="noreferrer"
