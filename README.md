@@ -1,6 +1,6 @@
 # Portfolio Project
 ![Screenshot](./src/assets/home.png)
-This is a responsive portfolio site created with ReactJS and plain CSS that implements Swiper for sliding components and EmailJS.
+This is a responsive portfolio site created with ReactJS and plain CSS that implements Swiper for sliding components and EmailJS for contact services.
 
 ### Project Features:
 - Responsive Layout
