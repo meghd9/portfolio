@@ -16,7 +16,6 @@ const About = () => {
                 <p className="about__description">
                     I create applications highlighting minimal design and friendly UI/UX interfaces.
                 </p>
-                {/* <a download="" href={CV} className="button button--flex"> */}
                 <a href={CV} target="_blank" rel="noopener noreferrer" className="button button--flex">
 
                     Check out my CV
